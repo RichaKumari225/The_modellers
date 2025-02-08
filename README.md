@@ -41,8 +41,4 @@ pip install pandas numpy matplotlib seaborn plotly mysql-connector-python
 *  Use drill-through pages and AI-powered insights for deeper analysis.
 
 
-  ## Contributors
-
-- [@Richa Kumari](https://www.linkedin.com/in/richa-kumari-213891215)
-- [@Shreyashi Cauhan](https://linkedin.com/in/anandnair99)
-- [@Sahil Singh](https://linkedin.com/in/v-n-nikhilesh-yadapaka-1ab422237)
+  
