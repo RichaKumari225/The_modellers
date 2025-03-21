@@ -40,5 +40,6 @@ pip install pandas numpy matplotlib seaborn plotly mysql-connector-python
 *  Predict future funding trends and successful startup characteristics.
 *  Use drill-through pages and AI-powered insights for deeper analysis.
 
+📌 [Indian Startup Funding Analysis Project Board](https://github.com/users/RichaKumari225/projects)
 
   
